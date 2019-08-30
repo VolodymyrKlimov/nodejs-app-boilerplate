@@ -1,0 +1,11 @@
+{
+  "root": true,
+  "env": {
+    "node": true
+  },
+  "extends": ["airbnb-base", "prettier"],
+  "rules": {
+    "no-unused-vars": 1,
+    "no-console": 0
+  }
+}
