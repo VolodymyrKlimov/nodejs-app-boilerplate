@@ -11,6 +11,10 @@
     "airbnb-base",
     "prettier"
   ],
+  "plugins": [
+    "babel",
+    "import"
+  ],
   "rules": {
     "no-unused-vars": 1,
     "no-console": 0
