@@ -1,4 +1,4 @@
-import greet from './greeting';
+const greet = require('./greeting');
 
 describe('greeting', () => {
   it('correctly greets the world', () => {

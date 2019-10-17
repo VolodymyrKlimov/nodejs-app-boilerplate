@@ -1,3 +1,3 @@
-import greet from './greeting';
+const greet = require('./greeting');
 
 console.log(greet('World'));
